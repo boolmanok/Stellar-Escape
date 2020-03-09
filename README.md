@@ -8,7 +8,10 @@ While the team was in the cave of the source, a sound of madness came from the e
 Or was he imagining it all, stuck in the loop of madness, forever? 
 
 Stellar Escape is a 2d platformer, where the player will jump his way up to try and escape the abyss and outrun the madness attempting to spread throughout his brain and take him and his team over.
-The main goal is to escape, but the key here is that the win condition (the height needed to escape / will be based off score) is     unknown (you're literally being driven crazy from the madness, and even if you weren't how would you know how deep you are? Come on..). Once you've reached the score needed to win, you will have escaped! 
+The main goal is to escape, but the key here is that the win condition (the height needed to escape / will be based off score) is     unknown (you're literally being driven crazy from the madness, and even if you weren't how would you know how deep you are? Come on..). 
+You may be able to reach the win condition (score needed to win), or you may be stuck in the never ending loop, but you'll never know. 
+
+Unless you choose to look in the code for it I guess.
 
 
--- P.S the booster platforms aren't always reliable..
+
